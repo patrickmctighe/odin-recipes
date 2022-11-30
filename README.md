@@ -1,1 +1,1 @@
-# odin-recipes
+Easy and Funny recipes.
