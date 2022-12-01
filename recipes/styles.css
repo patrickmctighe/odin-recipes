@@ -1,0 +1,62 @@
+img {
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background: darkgoldenrod;
+    padding: 5px;
+   
+   
+}
+h1 {
+    color: brown;
+    text-align: center;
+    font-weight: 800;
+    font-size: 100px;
+    text-decoration: underline;
+    text-shadow: 8px 8px darkorange;
+    
+}
+h2{
+    color: orange;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 1px 1px 2px orange, 0 0 25px orangered, 0 0 5px brown;
+   
+}
+h3 {
+    color: red;
+    font-weight: 800px;
+    text-align: center;
+    font-size: 30px;
+}
+p {
+    color: brown;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    word-wrap: break-word;
+    word-break: keep-all;
+    
+}
+li,ol,ul{
+    color: darkorange;
+    font-weight: 700;
+    text-align: center;
+    list-style-position: inside;
+    word-break: keep-all;
+    word-wrap: break-word;
+    font-size: 17px;
+   
+  padding:0 30%; 
+   
+}
+
+    
+
+body{
+    background-image: radial-gradient( lightblue, white);
+}
+
