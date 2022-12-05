@@ -1,0 +1,16 @@
+li,ul{
+    color: darkorange;
+    font-weight: 700;
+    text-align: center;
+    list-style-position: inside;}
+    h1 {
+        color: brown;
+        text-align: center;
+        font-weight: 800;
+        font-size: 200px;}
+        body{
+            background-color: lightblue;
+        }
+        a {
+            color:darkorange;
+            font-size: 125px}
